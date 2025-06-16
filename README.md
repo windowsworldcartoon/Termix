@@ -1,0 +1,2 @@
+# Termix
+A CLI Terminal
